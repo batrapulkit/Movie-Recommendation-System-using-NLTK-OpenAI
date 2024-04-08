@@ -82,8 +82,18 @@ Follow these instructions to get this project up and running on your local machi
 
 <p align="center">
 
-|                                                                                                                                                                                                                   <a href="https://github.com/BaldeepArora"></a>                                                                                                                                                                                                                    |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+<hr/>
+<hr> 
+<a href="https://avatars.githubusercontent.com/u/67047845?s=400&u=71fd8132682e8d6822f8ea748904fe86020d6e36&v=4"><img src="https://avatars.githubusercontent.com/u/67047845?s=400&u=71fd8132682e8d6822f8ea748904fe86020d6e36&v=4" width="150px" height="150px" /></a>
+</p>
+ 
+[Pulkit Batra](https://github.com/batrapulkit)*                                                                                                                                                                                                                                                      
+ <a href="https://github.com/batrapulkit"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/pulkit2001batra/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-216-721958.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/pulkit-batra-14972a199/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a><a href="https://www.facebook.com/pulkit.batra.14/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-263-721950.png" width="32px" height="32px"></a>
+
+<hr/>
+<hr>
+<hr>
 |                                                                                                                                                                                                                                                             **[Baldeep Arora](https://github.com/BaldeepArora)**                                                                                                                                                                                                                                                              |
 | <a href="https://github.com/BaldeepArora"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/baldeep__arora/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-216-721958.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/baldeeparora/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
